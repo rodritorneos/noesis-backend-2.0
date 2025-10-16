@@ -12,8 +12,6 @@ __pycache__/
 *.log
 *.wav
 *.mp3
-*.csv
-dataset_noesis.csv
 
 # Configuración local
 .DS_Store

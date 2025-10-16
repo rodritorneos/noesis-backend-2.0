@@ -1,0 +1,2001 @@
+puntaje_obtenido,puntaje_total,relacion_puntaje,clase_mas_recurrida_txt,clase_mas_recurrida_cod,nivel
+6,20,0.3,Present Simple,1,Básico
+19,20,0.95,Future Perfect,3,Avanzado
+14,20,0.7,Present Simple,1,Intermedio
+10,20,0.5,The verb can,2,Básico
+7,20,0.35,The verb can,2,Básico
+20,20,1.0,Verb to be,0,Avanzado
+6,20,0.3,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+10,20,0.5,Present Simple,1,Básico
+10,20,0.5,The verb can,2,Básico
+20,20,1.0,Future Perfect,3,Avanzado
+3,20,0.15,Present Simple,1,Básico
+7,20,0.35,Verb to be,0,Básico
+2,20,0.1,The verb can,2,Básico
+20,20,1.0,Verb to be,0,Avanzado
+1,20,0.05,The verb can,2,Básico
+11,20,0.55,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+20,20,1.0,Present Simple,1,Avanzado
+0,20,0.0,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+16,20,0.8,The verb can,2,Intermedio
+9,20,0.45,The verb can,2,Básico
+15,20,0.75,Verb to be,0,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+11,20,0.55,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+2,20,0.1,Verb to be,0,Básico
+4,20,0.2,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+6,20,0.3,Present Simple,1,Básico
+20,20,1.0,Future Perfect,3,Avanzado
+8,20,0.4,Verb to be,0,Básico
+6,20,0.3,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+3,20,0.15,Present Simple,1,Básico
+13,20,0.65,The verb can,2,Básico
+17,20,0.85,Present Simple,1,Intermedio
+8,20,0.4,Future Perfect,3,Básico
+20,20,1.0,Verb to be,0,Avanzado
+1,20,0.05,Verb to be,0,Básico
+19,20,0.95,The verb can,2,Avanzado
+14,20,0.7,Present Simple,1,Intermedio
+6,20,0.3,Verb to be,0,Básico
+11,20,0.55,Verb to be,0,Básico
+7,20,0.35,Verb to be,0,Básico
+14,20,0.7,The verb can,2,Intermedio
+2,20,0.1,Verb to be,0,Básico
+13,20,0.65,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+3,20,0.15,Present Simple,1,Básico
+17,20,0.85,Verb to be,0,Intermedio
+7,20,0.35,Present Simple,1,Básico
+3,20,0.15,Verb to be,0,Básico
+1,20,0.05,The verb can,2,Básico
+5,20,0.25,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+3,20,0.15,The verb can,2,Básico
+17,20,0.85,Present Simple,1,Intermedio
+11,20,0.55,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+9,20,0.45,Present Simple,1,Básico
+3,20,0.15,Present Simple,1,Básico
+13,20,0.65,Future Perfect,3,Básico
+15,20,0.75,Present Simple,1,Intermedio
+14,20,0.7,Present Simple,1,Intermedio
+7,20,0.35,The verb can,2,Básico
+13,20,0.65,Present Simple,1,Básico
+7,20,0.35,Verb to be,0,Básico
+20,20,1.0,Present Simple,1,Avanzado
+15,20,0.75,Future Perfect,3,Intermedio
+12,20,0.6,Verb to be,0,Básico
+17,20,0.85,Present Simple,1,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+20,20,1.0,Present Simple,1,Avanzado
+12,20,0.6,Verb to be,0,Básico
+8,20,0.4,Present Simple,1,Básico
+14,20,0.7,The verb can,2,Intermedio
+12,20,0.6,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+6,20,0.3,The verb can,2,Básico
+8,20,0.4,Future Perfect,3,Básico
+0,20,0.0,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+7,20,0.35,Verb to be,0,Básico
+10,20,0.5,Future Perfect,3,Básico
+18,20,0.9,Future Perfect,3,Avanzado
+16,20,0.8,Present Simple,1,Intermedio
+7,20,0.35,The verb can,2,Básico
+2,20,0.1,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+0,20,0.0,Verb to be,0,Básico
+4,20,0.2,The verb can,2,Básico
+9,20,0.45,Verb to be,0,Básico
+6,20,0.3,The verb can,2,Básico
+8,20,0.4,The verb can,2,Básico
+6,20,0.3,The verb can,2,Básico
+8,20,0.4,Verb to be,0,Básico
+7,20,0.35,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+1,20,0.05,Present Simple,1,Básico
+0,20,0.0,Verb to be,0,Básico
+15,20,0.75,Future Perfect,3,Intermedio
+4,20,0.2,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+2,20,0.1,Future Perfect,3,Básico
+4,20,0.2,Present Simple,1,Básico
+14,20,0.7,Future Perfect,3,Intermedio
+13,20,0.65,The verb can,2,Básico
+2,20,0.1,Verb to be,0,Básico
+0,20,0.0,Future Perfect,3,Básico
+4,20,0.2,Verb to be,0,Básico
+13,20,0.65,The verb can,2,Básico
+6,20,0.3,Present Simple,1,Básico
+8,20,0.4,The verb can,2,Básico
+14,20,0.7,The verb can,2,Intermedio
+14,20,0.7,The verb can,2,Intermedio
+9,20,0.45,The verb can,2,Básico
+12,20,0.6,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+6,20,0.3,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+19,20,0.95,Present Simple,1,Avanzado
+3,20,0.15,Present Simple,1,Básico
+4,20,0.2,Future Perfect,3,Básico
+6,20,0.3,Present Simple,1,Básico
+12,20,0.6,The verb can,2,Básico
+14,20,0.7,Verb to be,0,Intermedio
+10,20,0.5,The verb can,2,Básico
+3,20,0.15,Future Perfect,3,Básico
+12,20,0.6,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+18,20,0.9,The verb can,2,Avanzado
+1,20,0.05,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+5,20,0.25,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+11,20,0.55,Verb to be,0,Básico
+19,20,0.95,Verb to be,0,Avanzado
+10,20,0.5,Future Perfect,3,Básico
+6,20,0.3,Present Simple,1,Básico
+0,20,0.0,Future Perfect,3,Básico
+0,20,0.0,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+12,20,0.6,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+2,20,0.1,Verb to be,0,Básico
+6,20,0.3,Present Simple,1,Básico
+5,20,0.25,Verb to be,0,Básico
+7,20,0.35,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+0,20,0.0,Verb to be,0,Básico
+18,20,0.9,The verb can,2,Avanzado
+9,20,0.45,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+14,20,0.7,Future Perfect,3,Intermedio
+8,20,0.4,Verb to be,0,Básico
+19,20,0.95,Present Simple,1,Avanzado
+16,20,0.8,Future Perfect,3,Intermedio
+16,20,0.8,Verb to be,0,Intermedio
+19,20,0.95,Verb to be,0,Avanzado
+11,20,0.55,Verb to be,0,Básico
+6,20,0.3,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+2,20,0.1,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+4,20,0.2,Present Simple,1,Básico
+16,20,0.8,Future Perfect,3,Intermedio
+16,20,0.8,The verb can,2,Intermedio
+16,20,0.8,Present Simple,1,Intermedio
+1,20,0.05,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+0,20,0.0,Verb to be,0,Básico
+18,20,0.9,The verb can,2,Avanzado
+1,20,0.05,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+11,20,0.55,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+3,20,0.15,The verb can,2,Básico
+10,20,0.5,The verb can,2,Básico
+16,20,0.8,The verb can,2,Intermedio
+5,20,0.25,Verb to be,0,Básico
+4,20,0.2,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+1,20,0.05,Verb to be,0,Básico
+5,20,0.25,Verb to be,0,Básico
+10,20,0.5,The verb can,2,Básico
+15,20,0.75,Verb to be,0,Intermedio
+15,20,0.75,Present Simple,1,Intermedio
+0,20,0.0,Verb to be,0,Básico
+8,20,0.4,Verb to be,0,Básico
+5,20,0.25,Verb to be,0,Básico
+15,20,0.75,Future Perfect,3,Intermedio
+2,20,0.1,The verb can,2,Básico
+19,20,0.95,Future Perfect,3,Avanzado
+3,20,0.15,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+2,20,0.1,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+19,20,0.95,The verb can,2,Avanzado
+6,20,0.3,Verb to be,0,Básico
+19,20,0.95,Present Simple,1,Avanzado
+8,20,0.4,Verb to be,0,Básico
+0,20,0.0,Present Simple,1,Básico
+7,20,0.35,The verb can,2,Básico
+6,20,0.3,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+7,20,0.35,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+10,20,0.5,The verb can,2,Básico
+17,20,0.85,The verb can,2,Intermedio
+9,20,0.45,Future Perfect,3,Básico
+2,20,0.1,The verb can,2,Básico
+6,20,0.3,Present Simple,1,Básico
+15,20,0.75,Present Simple,1,Intermedio
+15,20,0.75,Present Simple,1,Intermedio
+19,20,0.95,Verb to be,0,Avanzado
+16,20,0.8,The verb can,2,Intermedio
+1,20,0.05,Verb to be,0,Básico
+0,20,0.0,Future Perfect,3,Básico
+15,20,0.75,Present Simple,1,Intermedio
+11,20,0.55,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+8,20,0.4,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+2,20,0.1,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+15,20,0.75,Verb to be,0,Intermedio
+15,20,0.75,The verb can,2,Intermedio
+2,20,0.1,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+0,20,0.0,Verb to be,0,Básico
+19,20,0.95,Verb to be,0,Avanzado
+10,20,0.5,The verb can,2,Básico
+16,20,0.8,Verb to be,0,Intermedio
+7,20,0.35,Verb to be,0,Básico
+3,20,0.15,Verb to be,0,Básico
+5,20,0.25,Future Perfect,3,Básico
+7,20,0.35,The verb can,2,Básico
+19,20,0.95,Present Simple,1,Avanzado
+2,20,0.1,Verb to be,0,Básico
+15,20,0.75,Present Simple,1,Intermedio
+2,20,0.1,The verb can,2,Básico
+17,20,0.85,Present Simple,1,Intermedio
+13,20,0.65,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+1,20,0.05,Verb to be,0,Básico
+2,20,0.1,Present Simple,1,Básico
+15,20,0.75,The verb can,2,Intermedio
+8,20,0.4,Verb to be,0,Básico
+3,20,0.15,Verb to be,0,Básico
+0,20,0.0,Verb to be,0,Básico
+3,20,0.15,Future Perfect,3,Básico
+0,20,0.0,Verb to be,0,Básico
+13,20,0.65,The verb can,2,Básico
+20,20,1.0,Present Simple,1,Avanzado
+15,20,0.75,Present Simple,1,Intermedio
+19,20,0.95,Verb to be,0,Avanzado
+7,20,0.35,Verb to be,0,Básico
+6,20,0.3,Present Simple,1,Básico
+2,20,0.1,The verb can,2,Básico
+16,20,0.8,Present Simple,1,Intermedio
+0,20,0.0,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+11,20,0.55,Future Perfect,3,Básico
+18,20,0.9,The verb can,2,Avanzado
+13,20,0.65,Verb to be,0,Básico
+5,20,0.25,Future Perfect,3,Básico
+5,20,0.25,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+18,20,0.9,The verb can,2,Avanzado
+7,20,0.35,The verb can,2,Básico
+1,20,0.05,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+0,20,0.0,Present Simple,1,Básico
+14,20,0.7,Future Perfect,3,Intermedio
+0,20,0.0,Verb to be,0,Básico
+4,20,0.2,Present Simple,1,Básico
+15,20,0.75,Present Simple,1,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+3,20,0.15,Present Simple,1,Básico
+2,20,0.1,Future Perfect,3,Básico
+16,20,0.8,Verb to be,0,Intermedio
+16,20,0.8,Verb to be,0,Intermedio
+11,20,0.55,Verb to be,0,Básico
+13,20,0.65,The verb can,2,Básico
+20,20,1.0,Present Simple,1,Avanzado
+5,20,0.25,Verb to be,0,Básico
+2,20,0.1,The verb can,2,Básico
+8,20,0.4,The verb can,2,Básico
+4,20,0.2,The verb can,2,Básico
+16,20,0.8,Future Perfect,3,Intermedio
+13,20,0.65,Verb to be,0,Básico
+20,20,1.0,The verb can,2,Avanzado
+2,20,0.1,Present Simple,1,Básico
+0,20,0.0,The verb can,2,Básico
+19,20,0.95,The verb can,2,Avanzado
+20,20,1.0,The verb can,2,Avanzado
+0,20,0.0,Present Simple,1,Básico
+2,20,0.1,Verb to be,0,Básico
+17,20,0.85,Present Simple,1,Intermedio
+9,20,0.45,Future Perfect,3,Básico
+2,20,0.1,Future Perfect,3,Básico
+7,20,0.35,Verb to be,0,Básico
+13,20,0.65,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+14,20,0.7,The verb can,2,Intermedio
+1,20,0.05,The verb can,2,Básico
+9,20,0.45,Verb to be,0,Básico
+1,20,0.05,Present Simple,1,Básico
+16,20,0.8,The verb can,2,Intermedio
+7,20,0.35,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+10,20,0.5,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+6,20,0.3,Present Simple,1,Básico
+9,20,0.45,Present Simple,1,Básico
+2,20,0.1,The verb can,2,Básico
+17,20,0.85,Present Simple,1,Intermedio
+12,20,0.6,The verb can,2,Básico
+6,20,0.3,Verb to be,0,Básico
+3,20,0.15,Present Simple,1,Básico
+12,20,0.6,Verb to be,0,Básico
+19,20,0.95,Verb to be,0,Avanzado
+0,20,0.0,The verb can,2,Básico
+7,20,0.35,Future Perfect,3,Básico
+13,20,0.65,Verb to be,0,Básico
+15,20,0.75,Present Simple,1,Intermedio
+13,20,0.65,The verb can,2,Básico
+11,20,0.55,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+14,20,0.7,The verb can,2,Intermedio
+1,20,0.05,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+16,20,0.8,The verb can,2,Intermedio
+19,20,0.95,Present Simple,1,Avanzado
+9,20,0.45,Verb to be,0,Básico
+5,20,0.25,The verb can,2,Básico
+14,20,0.7,Verb to be,0,Intermedio
+10,20,0.5,The verb can,2,Básico
+4,20,0.2,Verb to be,0,Básico
+0,20,0.0,Future Perfect,3,Básico
+7,20,0.35,Present Simple,1,Básico
+20,20,1.0,Present Simple,1,Avanzado
+11,20,0.55,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+6,20,0.3,Future Perfect,3,Básico
+3,20,0.15,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+12,20,0.6,The verb can,2,Básico
+19,20,0.95,The verb can,2,Avanzado
+14,20,0.7,Present Simple,1,Intermedio
+2,20,0.1,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+15,20,0.75,Verb to be,0,Intermedio
+12,20,0.6,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+9,20,0.45,The verb can,2,Básico
+18,20,0.9,Verb to be,0,Avanzado
+16,20,0.8,Present Simple,1,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+4,20,0.2,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+8,20,0.4,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+20,20,1.0,Present Simple,1,Avanzado
+0,20,0.0,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+14,20,0.7,The verb can,2,Intermedio
+1,20,0.05,Verb to be,0,Básico
+15,20,0.75,The verb can,2,Intermedio
+7,20,0.35,Present Simple,1,Básico
+12,20,0.6,Verb to be,0,Básico
+20,20,1.0,Verb to be,0,Avanzado
+0,20,0.0,Present Simple,1,Básico
+15,20,0.75,The verb can,2,Intermedio
+6,20,0.3,The verb can,2,Básico
+4,20,0.2,The verb can,2,Básico
+2,20,0.1,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+4,20,0.2,Present Simple,1,Básico
+13,20,0.65,Verb to be,0,Básico
+4,20,0.2,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+16,20,0.8,The verb can,2,Intermedio
+13,20,0.65,Future Perfect,3,Básico
+19,20,0.95,Future Perfect,3,Avanzado
+4,20,0.2,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+15,20,0.75,Present Simple,1,Intermedio
+15,20,0.75,The verb can,2,Intermedio
+20,20,1.0,Verb to be,0,Avanzado
+6,20,0.3,Present Simple,1,Básico
+3,20,0.15,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+9,20,0.45,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+3,20,0.15,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+19,20,0.95,Verb to be,0,Avanzado
+9,20,0.45,Verb to be,0,Básico
+18,20,0.9,The verb can,2,Avanzado
+0,20,0.0,Verb to be,0,Básico
+4,20,0.2,Present Simple,1,Básico
+12,20,0.6,Verb to be,0,Básico
+3,20,0.15,Future Perfect,3,Básico
+15,20,0.75,Verb to be,0,Intermedio
+15,20,0.75,Present Simple,1,Intermedio
+1,20,0.05,The verb can,2,Básico
+16,20,0.8,The verb can,2,Intermedio
+19,20,0.95,Verb to be,0,Avanzado
+11,20,0.55,The verb can,2,Básico
+17,20,0.85,Present Simple,1,Intermedio
+2,20,0.1,Present Simple,1,Básico
+0,20,0.0,Verb to be,0,Básico
+0,20,0.0,Verb to be,0,Básico
+18,20,0.9,The verb can,2,Avanzado
+10,20,0.5,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+11,20,0.55,The verb can,2,Básico
+2,20,0.1,The verb can,2,Básico
+0,20,0.0,Verb to be,0,Básico
+0,20,0.0,Present Simple,1,Básico
+7,20,0.35,Verb to be,0,Básico
+9,20,0.45,The verb can,2,Básico
+10,20,0.5,Present Simple,1,Básico
+11,20,0.55,Future Perfect,3,Básico
+12,20,0.6,Verb to be,0,Básico
+11,20,0.55,Verb to be,0,Básico
+13,20,0.65,Verb to be,0,Básico
+1,20,0.05,Verb to be,0,Básico
+18,20,0.9,Verb to be,0,Avanzado
+17,20,0.85,Future Perfect,3,Intermedio
+2,20,0.1,Verb to be,0,Básico
+16,20,0.8,Verb to be,0,Intermedio
+7,20,0.35,The verb can,2,Básico
+9,20,0.45,Present Simple,1,Básico
+1,20,0.05,The verb can,2,Básico
+18,20,0.9,Verb to be,0,Avanzado
+8,20,0.4,Present Simple,1,Básico
+6,20,0.3,Verb to be,0,Básico
+3,20,0.15,Verb to be,0,Básico
+20,20,1.0,Future Perfect,3,Avanzado
+17,20,0.85,Verb to be,0,Intermedio
+12,20,0.6,Present Simple,1,Básico
+10,20,0.5,Present Simple,1,Básico
+3,20,0.15,Present Simple,1,Básico
+20,20,1.0,The verb can,2,Avanzado
+3,20,0.15,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+4,20,0.2,Future Perfect,3,Básico
+8,20,0.4,Present Simple,1,Básico
+2,20,0.1,Future Perfect,3,Básico
+16,20,0.8,Verb to be,0,Intermedio
+2,20,0.1,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+3,20,0.15,The verb can,2,Básico
+17,20,0.85,Future Perfect,3,Intermedio
+16,20,0.8,Verb to be,0,Intermedio
+6,20,0.3,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+16,20,0.8,Present Simple,1,Intermedio
+12,20,0.6,Future Perfect,3,Básico
+2,20,0.1,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+16,20,0.8,Verb to be,0,Intermedio
+19,20,0.95,Verb to be,0,Avanzado
+15,20,0.75,Verb to be,0,Intermedio
+12,20,0.6,The verb can,2,Básico
+18,20,0.9,Present Simple,1,Avanzado
+16,20,0.8,Present Simple,1,Intermedio
+3,20,0.15,Verb to be,0,Básico
+11,20,0.55,The verb can,2,Básico
+8,20,0.4,The verb can,2,Básico
+18,20,0.9,Verb to be,0,Avanzado
+11,20,0.55,The verb can,2,Básico
+8,20,0.4,Present Simple,1,Básico
+6,20,0.3,Verb to be,0,Básico
+13,20,0.65,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+18,20,0.9,Verb to be,0,Avanzado
+14,20,0.7,Future Perfect,3,Intermedio
+15,20,0.75,The verb can,2,Intermedio
+20,20,1.0,Present Simple,1,Avanzado
+4,20,0.2,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+20,20,1.0,Verb to be,0,Avanzado
+3,20,0.15,Present Simple,1,Básico
+20,20,1.0,The verb can,2,Avanzado
+15,20,0.75,Present Simple,1,Intermedio
+6,20,0.3,Verb to be,0,Básico
+12,20,0.6,The verb can,2,Básico
+20,20,1.0,Verb to be,0,Avanzado
+9,20,0.45,Verb to be,0,Básico
+6,20,0.3,Verb to be,0,Básico
+13,20,0.65,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+2,20,0.1,Present Simple,1,Básico
+10,20,0.5,Verb to be,0,Básico
+10,20,0.5,The verb can,2,Básico
+17,20,0.85,The verb can,2,Intermedio
+14,20,0.7,The verb can,2,Intermedio
+11,20,0.55,Verb to be,0,Básico
+8,20,0.4,Present Simple,1,Básico
+9,20,0.45,Future Perfect,3,Básico
+11,20,0.55,The verb can,2,Básico
+16,20,0.8,Verb to be,0,Intermedio
+5,20,0.25,Verb to be,0,Básico
+6,20,0.3,Present Simple,1,Básico
+13,20,0.65,Future Perfect,3,Básico
+12,20,0.6,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+9,20,0.45,Verb to be,0,Básico
+8,20,0.4,Present Simple,1,Básico
+17,20,0.85,The verb can,2,Intermedio
+1,20,0.05,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+4,20,0.2,Future Perfect,3,Básico
+5,20,0.25,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+7,20,0.35,Verb to be,0,Básico
+15,20,0.75,The verb can,2,Intermedio
+12,20,0.6,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+19,20,0.95,The verb can,2,Avanzado
+16,20,0.8,Present Simple,1,Intermedio
+6,20,0.3,Future Perfect,3,Básico
+12,20,0.6,Present Simple,1,Básico
+3,20,0.15,Verb to be,0,Básico
+3,20,0.15,Present Simple,1,Básico
+5,20,0.25,The verb can,2,Básico
+18,20,0.9,Present Simple,1,Avanzado
+11,20,0.55,The verb can,2,Básico
+6,20,0.3,Future Perfect,3,Básico
+9,20,0.45,Verb to be,0,Básico
+18,20,0.9,Future Perfect,3,Avanzado
+6,20,0.3,Verb to be,0,Básico
+2,20,0.1,Verb to be,0,Básico
+12,20,0.6,Verb to be,0,Básico
+12,20,0.6,The verb can,2,Básico
+17,20,0.85,Present Simple,1,Intermedio
+19,20,0.95,Verb to be,0,Avanzado
+7,20,0.35,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+6,20,0.3,Verb to be,0,Básico
+0,20,0.0,The verb can,2,Básico
+2,20,0.1,The verb can,2,Básico
+12,20,0.6,Present Simple,1,Básico
+16,20,0.8,Future Perfect,3,Intermedio
+0,20,0.0,Present Simple,1,Básico
+5,20,0.25,Future Perfect,3,Básico
+20,20,1.0,Present Simple,1,Avanzado
+5,20,0.25,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+12,20,0.6,The verb can,2,Básico
+12,20,0.6,Present Simple,1,Básico
+14,20,0.7,Verb to be,0,Intermedio
+20,20,1.0,Verb to be,0,Avanzado
+15,20,0.75,Present Simple,1,Intermedio
+20,20,1.0,Present Simple,1,Avanzado
+10,20,0.5,The verb can,2,Básico
+4,20,0.2,The verb can,2,Básico
+3,20,0.15,Verb to be,0,Básico
+2,20,0.1,The verb can,2,Básico
+18,20,0.9,Verb to be,0,Avanzado
+19,20,0.95,The verb can,2,Avanzado
+17,20,0.85,The verb can,2,Intermedio
+14,20,0.7,Present Simple,1,Intermedio
+8,20,0.4,The verb can,2,Básico
+16,20,0.8,Present Simple,1,Intermedio
+13,20,0.65,Present Simple,1,Básico
+14,20,0.7,The verb can,2,Intermedio
+0,20,0.0,Present Simple,1,Básico
+20,20,1.0,Present Simple,1,Avanzado
+2,20,0.1,Present Simple,1,Básico
+15,20,0.75,The verb can,2,Intermedio
+10,20,0.5,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+9,20,0.45,The verb can,2,Básico
+15,20,0.75,The verb can,2,Intermedio
+7,20,0.35,Verb to be,0,Básico
+5,20,0.25,Verb to be,0,Básico
+11,20,0.55,Verb to be,0,Básico
+20,20,1.0,Present Simple,1,Avanzado
+7,20,0.35,Present Simple,1,Básico
+3,20,0.15,The verb can,2,Básico
+7,20,0.35,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+4,20,0.2,Present Simple,1,Básico
+8,20,0.4,The verb can,2,Básico
+3,20,0.15,Present Simple,1,Básico
+16,20,0.8,Future Perfect,3,Intermedio
+8,20,0.4,Present Simple,1,Básico
+0,20,0.0,Verb to be,0,Básico
+20,20,1.0,Present Simple,1,Avanzado
+19,20,0.95,Present Simple,1,Avanzado
+12,20,0.6,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+12,20,0.6,Verb to be,0,Básico
+13,20,0.65,The verb can,2,Básico
+2,20,0.1,Verb to be,0,Básico
+5,20,0.25,The verb can,2,Básico
+17,20,0.85,Verb to be,0,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+4,20,0.2,Present Simple,1,Básico
+14,20,0.7,Present Simple,1,Intermedio
+1,20,0.05,Present Simple,1,Básico
+9,20,0.45,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+12,20,0.6,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+0,20,0.0,Future Perfect,3,Básico
+0,20,0.0,The verb can,2,Básico
+17,20,0.85,The verb can,2,Intermedio
+14,20,0.7,The verb can,2,Intermedio
+16,20,0.8,Present Simple,1,Intermedio
+10,20,0.5,Verb to be,0,Básico
+20,20,1.0,Future Perfect,3,Avanzado
+16,20,0.8,Present Simple,1,Intermedio
+12,20,0.6,Present Simple,1,Básico
+0,20,0.0,Verb to be,0,Básico
+1,20,0.05,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+2,20,0.1,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+20,20,1.0,Present Simple,1,Avanzado
+15,20,0.75,Future Perfect,3,Intermedio
+5,20,0.25,Verb to be,0,Básico
+16,20,0.8,Present Simple,1,Intermedio
+4,20,0.2,Verb to be,0,Básico
+4,20,0.2,The verb can,2,Básico
+5,20,0.25,Future Perfect,3,Básico
+2,20,0.1,Verb to be,0,Básico
+20,20,1.0,The verb can,2,Avanzado
+4,20,0.2,Verb to be,0,Básico
+20,20,1.0,Future Perfect,3,Avanzado
+4,20,0.2,The verb can,2,Básico
+9,20,0.45,The verb can,2,Básico
+9,20,0.45,Verb to be,0,Básico
+18,20,0.9,Future Perfect,3,Avanzado
+16,20,0.8,The verb can,2,Intermedio
+20,20,1.0,Present Simple,1,Avanzado
+13,20,0.65,The verb can,2,Básico
+8,20,0.4,Verb to be,0,Básico
+13,20,0.65,The verb can,2,Básico
+0,20,0.0,Verb to be,0,Básico
+18,20,0.9,The verb can,2,Avanzado
+12,20,0.6,Present Simple,1,Básico
+12,20,0.6,Verb to be,0,Básico
+3,20,0.15,Verb to be,0,Básico
+0,20,0.0,Verb to be,0,Básico
+16,20,0.8,Present Simple,1,Intermedio
+7,20,0.35,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+7,20,0.35,Verb to be,0,Básico
+6,20,0.3,Verb to be,0,Básico
+1,20,0.05,The verb can,2,Básico
+2,20,0.1,Verb to be,0,Básico
+17,20,0.85,Future Perfect,3,Intermedio
+11,20,0.55,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+16,20,0.8,Verb to be,0,Intermedio
+15,20,0.75,Verb to be,0,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+14,20,0.7,The verb can,2,Intermedio
+4,20,0.2,Verb to be,0,Básico
+20,20,1.0,Present Simple,1,Avanzado
+13,20,0.65,Future Perfect,3,Básico
+1,20,0.05,The verb can,2,Básico
+10,20,0.5,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+6,20,0.3,The verb can,2,Básico
+5,20,0.25,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+5,20,0.25,Verb to be,0,Básico
+17,20,0.85,Future Perfect,3,Intermedio
+1,20,0.05,Present Simple,1,Básico
+17,20,0.85,The verb can,2,Intermedio
+14,20,0.7,The verb can,2,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+1,20,0.05,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+5,20,0.25,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+14,20,0.7,The verb can,2,Intermedio
+9,20,0.45,Present Simple,1,Básico
+18,20,0.9,The verb can,2,Avanzado
+16,20,0.8,Present Simple,1,Intermedio
+4,20,0.2,Present Simple,1,Básico
+3,20,0.15,Present Simple,1,Básico
+9,20,0.45,Present Simple,1,Básico
+16,20,0.8,The verb can,2,Intermedio
+9,20,0.45,Verb to be,0,Básico
+16,20,0.8,Present Simple,1,Intermedio
+19,20,0.95,Verb to be,0,Avanzado
+4,20,0.2,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+20,20,1.0,Future Perfect,3,Avanzado
+1,20,0.05,Present Simple,1,Básico
+12,20,0.6,The verb can,2,Básico
+10,20,0.5,Present Simple,1,Básico
+10,20,0.5,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+10,20,0.5,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+14,20,0.7,Present Simple,1,Intermedio
+15,20,0.75,Verb to be,0,Intermedio
+10,20,0.5,Verb to be,0,Básico
+15,20,0.75,Verb to be,0,Intermedio
+7,20,0.35,Future Perfect,3,Básico
+3,20,0.15,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+3,20,0.15,Verb to be,0,Básico
+2,20,0.1,Present Simple,1,Básico
+2,20,0.1,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+18,20,0.9,Verb to be,0,Avanzado
+20,20,1.0,Verb to be,0,Avanzado
+4,20,0.2,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+9,20,0.45,Verb to be,0,Básico
+20,20,1.0,Present Simple,1,Avanzado
+5,20,0.25,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+8,20,0.4,Verb to be,0,Básico
+11,20,0.55,Future Perfect,3,Básico
+13,20,0.65,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+16,20,0.8,Present Simple,1,Intermedio
+13,20,0.65,Verb to be,0,Básico
+12,20,0.6,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+14,20,0.7,The verb can,2,Intermedio
+14,20,0.7,Present Simple,1,Intermedio
+10,20,0.5,The verb can,2,Básico
+15,20,0.75,Future Perfect,3,Intermedio
+16,20,0.8,Verb to be,0,Intermedio
+3,20,0.15,Verb to be,0,Básico
+0,20,0.0,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+16,20,0.8,Present Simple,1,Intermedio
+2,20,0.1,Future Perfect,3,Básico
+19,20,0.95,The verb can,2,Avanzado
+14,20,0.7,Present Simple,1,Intermedio
+14,20,0.7,Present Simple,1,Intermedio
+13,20,0.65,The verb can,2,Básico
+13,20,0.65,Future Perfect,3,Básico
+1,20,0.05,The verb can,2,Básico
+12,20,0.6,Verb to be,0,Básico
+13,20,0.65,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+6,20,0.3,Verb to be,0,Básico
+2,20,0.1,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+13,20,0.65,Present Simple,1,Básico
+10,20,0.5,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+12,20,0.6,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+5,20,0.25,Verb to be,0,Básico
+2,20,0.1,Present Simple,1,Básico
+18,20,0.9,The verb can,2,Avanzado
+14,20,0.7,Verb to be,0,Intermedio
+4,20,0.2,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+6,20,0.3,Future Perfect,3,Básico
+16,20,0.8,Present Simple,1,Intermedio
+6,20,0.3,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+16,20,0.8,Present Simple,1,Intermedio
+12,20,0.6,Verb to be,0,Básico
+19,20,0.95,Present Simple,1,Avanzado
+3,20,0.15,Future Perfect,3,Básico
+9,20,0.45,Present Simple,1,Básico
+2,20,0.1,The verb can,2,Básico
+8,20,0.4,The verb can,2,Básico
+12,20,0.6,Verb to be,0,Básico
+17,20,0.85,Future Perfect,3,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+3,20,0.15,Present Simple,1,Básico
+14,20,0.7,Verb to be,0,Intermedio
+1,20,0.05,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+7,20,0.35,Verb to be,0,Básico
+7,20,0.35,Present Simple,1,Básico
+16,20,0.8,Present Simple,1,Intermedio
+11,20,0.55,Verb to be,0,Básico
+18,20,0.9,Verb to be,0,Avanzado
+9,20,0.45,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+5,20,0.25,Present Simple,1,Básico
+19,20,0.95,The verb can,2,Avanzado
+1,20,0.05,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+0,20,0.0,Present Simple,1,Básico
+20,20,1.0,The verb can,2,Avanzado
+20,20,1.0,Present Simple,1,Avanzado
+5,20,0.25,The verb can,2,Básico
+5,20,0.25,The verb can,2,Básico
+15,20,0.75,The verb can,2,Intermedio
+3,20,0.15,Future Perfect,3,Básico
+10,20,0.5,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+7,20,0.35,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+3,20,0.15,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+19,20,0.95,Present Simple,1,Avanzado
+10,20,0.5,Verb to be,0,Básico
+3,20,0.15,The verb can,2,Básico
+14,20,0.7,Present Simple,1,Intermedio
+5,20,0.25,Verb to be,0,Básico
+16,20,0.8,Verb to be,0,Intermedio
+5,20,0.25,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+1,20,0.05,Present Simple,1,Básico
+14,20,0.7,Verb to be,0,Intermedio
+10,20,0.5,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+12,20,0.6,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+5,20,0.25,Future Perfect,3,Básico
+3,20,0.15,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+19,20,0.95,Verb to be,0,Avanzado
+0,20,0.0,Present Simple,1,Básico
+19,20,0.95,Verb to be,0,Avanzado
+16,20,0.8,Present Simple,1,Intermedio
+11,20,0.55,Future Perfect,3,Básico
+14,20,0.7,Present Simple,1,Intermedio
+0,20,0.0,Verb to be,0,Básico
+13,20,0.65,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+10,20,0.5,Verb to be,0,Básico
+3,20,0.15,The verb can,2,Básico
+12,20,0.6,Present Simple,1,Básico
+10,20,0.5,Verb to be,0,Básico
+2,20,0.1,Future Perfect,3,Básico
+0,20,0.0,Verb to be,0,Básico
+5,20,0.25,Future Perfect,3,Básico
+17,20,0.85,Present Simple,1,Intermedio
+9,20,0.45,The verb can,2,Básico
+4,20,0.2,Present Simple,1,Básico
+9,20,0.45,The verb can,2,Básico
+11,20,0.55,Future Perfect,3,Básico
+1,20,0.05,Verb to be,0,Básico
+12,20,0.6,Future Perfect,3,Básico
+7,20,0.35,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+0,20,0.0,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+8,20,0.4,Present Simple,1,Básico
+16,20,0.8,Present Simple,1,Intermedio
+8,20,0.4,The verb can,2,Básico
+10,20,0.5,The verb can,2,Básico
+14,20,0.7,Present Simple,1,Intermedio
+5,20,0.25,Present Simple,1,Básico
+2,20,0.1,Verb to be,0,Básico
+16,20,0.8,Verb to be,0,Intermedio
+4,20,0.2,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+17,20,0.85,Verb to be,0,Intermedio
+13,20,0.65,Future Perfect,3,Básico
+20,20,1.0,Present Simple,1,Avanzado
+10,20,0.5,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+7,20,0.35,Future Perfect,3,Básico
+7,20,0.35,The verb can,2,Básico
+10,20,0.5,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+13,20,0.65,Verb to be,0,Básico
+2,20,0.1,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+4,20,0.2,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+13,20,0.65,Future Perfect,3,Básico
+3,20,0.15,Future Perfect,3,Básico
+12,20,0.6,The verb can,2,Básico
+9,20,0.45,Present Simple,1,Básico
+17,20,0.85,The verb can,2,Intermedio
+7,20,0.35,Verb to be,0,Básico
+7,20,0.35,The verb can,2,Básico
+6,20,0.3,Verb to be,0,Básico
+7,20,0.35,The verb can,2,Básico
+13,20,0.65,Verb to be,0,Básico
+18,20,0.9,The verb can,2,Avanzado
+5,20,0.25,Future Perfect,3,Básico
+0,20,0.0,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+0,20,0.0,Future Perfect,3,Básico
+16,20,0.8,Present Simple,1,Intermedio
+0,20,0.0,The verb can,2,Básico
+14,20,0.7,Present Simple,1,Intermedio
+1,20,0.05,Present Simple,1,Básico
+13,20,0.65,Verb to be,0,Básico
+20,20,1.0,Verb to be,0,Avanzado
+7,20,0.35,The verb can,2,Básico
+7,20,0.35,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+6,20,0.3,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+5,20,0.25,The verb can,2,Básico
+5,20,0.25,Future Perfect,3,Básico
+2,20,0.1,Present Simple,1,Básico
+6,20,0.3,The verb can,2,Básico
+18,20,0.9,The verb can,2,Avanzado
+7,20,0.35,Present Simple,1,Básico
+9,20,0.45,Future Perfect,3,Básico
+19,20,0.95,Verb to be,0,Avanzado
+14,20,0.7,Verb to be,0,Intermedio
+14,20,0.7,The verb can,2,Intermedio
+0,20,0.0,Present Simple,1,Básico
+19,20,0.95,The verb can,2,Avanzado
+6,20,0.3,The verb can,2,Básico
+3,20,0.15,Verb to be,0,Básico
+5,20,0.25,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+3,20,0.15,Future Perfect,3,Básico
+1,20,0.05,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+9,20,0.45,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+5,20,0.25,Verb to be,0,Básico
+12,20,0.6,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+3,20,0.15,The verb can,2,Básico
+12,20,0.6,Verb to be,0,Básico
+19,20,0.95,Verb to be,0,Avanzado
+14,20,0.7,Future Perfect,3,Intermedio
+7,20,0.35,Verb to be,0,Básico
+4,20,0.2,Future Perfect,3,Básico
+14,20,0.7,Present Simple,1,Intermedio
+3,20,0.15,The verb can,2,Básico
+11,20,0.55,Verb to be,0,Básico
+12,20,0.6,Verb to be,0,Básico
+1,20,0.05,The verb can,2,Básico
+18,20,0.9,The verb can,2,Avanzado
+18,20,0.9,The verb can,2,Avanzado
+3,20,0.15,Verb to be,0,Básico
+3,20,0.15,The verb can,2,Básico
+10,20,0.5,The verb can,2,Básico
+4,20,0.2,Present Simple,1,Básico
+19,20,0.95,The verb can,2,Avanzado
+10,20,0.5,The verb can,2,Básico
+9,20,0.45,Present Simple,1,Básico
+7,20,0.35,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+5,20,0.25,Verb to be,0,Básico
+7,20,0.35,Present Simple,1,Básico
+14,20,0.7,Present Simple,1,Intermedio
+13,20,0.65,Verb to be,0,Básico
+10,20,0.5,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+12,20,0.6,The verb can,2,Básico
+7,20,0.35,Future Perfect,3,Básico
+17,20,0.85,Verb to be,0,Intermedio
+0,20,0.0,Future Perfect,3,Básico
+14,20,0.7,Present Simple,1,Intermedio
+7,20,0.35,Verb to be,0,Básico
+10,20,0.5,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+11,20,0.55,The verb can,2,Básico
+3,20,0.15,The verb can,2,Básico
+15,20,0.75,Verb to be,0,Intermedio
+3,20,0.15,Verb to be,0,Básico
+4,20,0.2,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+7,20,0.35,Verb to be,0,Básico
+9,20,0.45,Verb to be,0,Básico
+16,20,0.8,The verb can,2,Intermedio
+8,20,0.4,Future Perfect,3,Básico
+18,20,0.9,Present Simple,1,Avanzado
+13,20,0.65,Future Perfect,3,Básico
+7,20,0.35,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+10,20,0.5,Verb to be,0,Básico
+0,20,0.0,Present Simple,1,Básico
+13,20,0.65,Future Perfect,3,Básico
+4,20,0.2,Present Simple,1,Básico
+20,20,1.0,Present Simple,1,Avanzado
+13,20,0.65,Present Simple,1,Básico
+3,20,0.15,Verb to be,0,Básico
+0,20,0.0,The verb can,2,Básico
+18,20,0.9,Present Simple,1,Avanzado
+7,20,0.35,Present Simple,1,Básico
+14,20,0.7,Present Simple,1,Intermedio
+20,20,1.0,Present Simple,1,Avanzado
+14,20,0.7,Verb to be,0,Intermedio
+8,20,0.4,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+8,20,0.4,The verb can,2,Básico
+9,20,0.45,The verb can,2,Básico
+19,20,0.95,The verb can,2,Avanzado
+20,20,1.0,Present Simple,1,Avanzado
+8,20,0.4,Present Simple,1,Básico
+2,20,0.1,Verb to be,0,Básico
+19,20,0.95,The verb can,2,Avanzado
+10,20,0.5,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+6,20,0.3,Verb to be,0,Básico
+17,20,0.85,Present Simple,1,Intermedio
+1,20,0.05,Verb to be,0,Básico
+16,20,0.8,The verb can,2,Intermedio
+10,20,0.5,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+6,20,0.3,Verb to be,0,Básico
+19,20,0.95,Verb to be,0,Avanzado
+5,20,0.25,The verb can,2,Básico
+20,20,1.0,Verb to be,0,Avanzado
+0,20,0.0,The verb can,2,Básico
+16,20,0.8,Verb to be,0,Intermedio
+10,20,0.5,Verb to be,0,Básico
+17,20,0.85,The verb can,2,Intermedio
+20,20,1.0,Present Simple,1,Avanzado
+16,20,0.8,Verb to be,0,Intermedio
+6,20,0.3,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+19,20,0.95,The verb can,2,Avanzado
+8,20,0.4,Present Simple,1,Básico
+16,20,0.8,The verb can,2,Intermedio
+19,20,0.95,The verb can,2,Avanzado
+7,20,0.35,Present Simple,1,Básico
+16,20,0.8,Future Perfect,3,Intermedio
+6,20,0.3,Present Simple,1,Básico
+0,20,0.0,Future Perfect,3,Básico
+12,20,0.6,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+18,20,0.9,Present Simple,1,Avanzado
+16,20,0.8,Present Simple,1,Intermedio
+12,20,0.6,Present Simple,1,Básico
+15,20,0.75,The verb can,2,Intermedio
+7,20,0.35,Verb to be,0,Básico
+18,20,0.9,Verb to be,0,Avanzado
+17,20,0.85,The verb can,2,Intermedio
+0,20,0.0,Present Simple,1,Básico
+13,20,0.65,Future Perfect,3,Básico
+18,20,0.9,The verb can,2,Avanzado
+14,20,0.7,Future Perfect,3,Intermedio
+17,20,0.85,The verb can,2,Intermedio
+1,20,0.05,Verb to be,0,Básico
+16,20,0.8,Verb to be,0,Intermedio
+17,20,0.85,The verb can,2,Intermedio
+5,20,0.25,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+3,20,0.15,Present Simple,1,Básico
+0,20,0.0,Future Perfect,3,Básico
+7,20,0.35,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+9,20,0.45,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+13,20,0.65,Verb to be,0,Básico
+1,20,0.05,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+17,20,0.85,The verb can,2,Intermedio
+6,20,0.3,The verb can,2,Básico
+7,20,0.35,Verb to be,0,Básico
+0,20,0.0,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+7,20,0.35,The verb can,2,Básico
+14,20,0.7,Verb to be,0,Intermedio
+4,20,0.2,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+0,20,0.0,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+7,20,0.35,The verb can,2,Básico
+1,20,0.05,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+13,20,0.65,Present Simple,1,Básico
+13,20,0.65,The verb can,2,Básico
+10,20,0.5,Verb to be,0,Básico
+15,20,0.75,The verb can,2,Intermedio
+3,20,0.15,Verb to be,0,Básico
+19,20,0.95,Present Simple,1,Avanzado
+4,20,0.2,Verb to be,0,Básico
+20,20,1.0,Verb to be,0,Avanzado
+13,20,0.65,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+17,20,0.85,The verb can,2,Intermedio
+6,20,0.3,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+0,20,0.0,Verb to be,0,Básico
+20,20,1.0,Verb to be,0,Avanzado
+18,20,0.9,Present Simple,1,Avanzado
+15,20,0.75,Present Simple,1,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+3,20,0.15,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+1,20,0.05,Verb to be,0,Básico
+0,20,0.0,Present Simple,1,Básico
+14,20,0.7,Future Perfect,3,Intermedio
+4,20,0.2,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+10,20,0.5,Present Simple,1,Básico
+9,20,0.45,The verb can,2,Básico
+1,20,0.05,The verb can,2,Básico
+2,20,0.1,Present Simple,1,Básico
+11,20,0.55,Future Perfect,3,Básico
+19,20,0.95,Verb to be,0,Avanzado
+4,20,0.2,Verb to be,0,Básico
+4,20,0.2,The verb can,2,Básico
+5,20,0.25,The verb can,2,Básico
+8,20,0.4,Verb to be,0,Básico
+1,20,0.05,Verb to be,0,Básico
+20,20,1.0,Verb to be,0,Avanzado
+11,20,0.55,Verb to be,0,Básico
+2,20,0.1,The verb can,2,Básico
+19,20,0.95,Present Simple,1,Avanzado
+11,20,0.55,Present Simple,1,Básico
+16,20,0.8,Present Simple,1,Intermedio
+9,20,0.45,Verb to be,0,Básico
+13,20,0.65,Verb to be,0,Básico
+16,20,0.8,Present Simple,1,Intermedio
+17,20,0.85,Future Perfect,3,Intermedio
+18,20,0.9,The verb can,2,Avanzado
+16,20,0.8,Verb to be,0,Intermedio
+13,20,0.65,The verb can,2,Básico
+8,20,0.4,The verb can,2,Básico
+7,20,0.35,The verb can,2,Básico
+1,20,0.05,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+8,20,0.4,Verb to be,0,Básico
+10,20,0.5,Verb to be,0,Básico
+13,20,0.65,Verb to be,0,Básico
+3,20,0.15,Present Simple,1,Básico
+12,20,0.6,The verb can,2,Básico
+1,20,0.05,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+10,20,0.5,Future Perfect,3,Básico
+5,20,0.25,Future Perfect,3,Básico
+17,20,0.85,The verb can,2,Intermedio
+20,20,1.0,Future Perfect,3,Avanzado
+9,20,0.45,Present Simple,1,Básico
+3,20,0.15,Future Perfect,3,Básico
+8,20,0.4,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+16,20,0.8,Verb to be,0,Intermedio
+4,20,0.2,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+11,20,0.55,The verb can,2,Básico
+20,20,1.0,Present Simple,1,Avanzado
+9,20,0.45,Verb to be,0,Básico
+20,20,1.0,The verb can,2,Avanzado
+5,20,0.25,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+12,20,0.6,Present Simple,1,Básico
+20,20,1.0,Future Perfect,3,Avanzado
+6,20,0.3,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+12,20,0.6,The verb can,2,Básico
+16,20,0.8,The verb can,2,Intermedio
+20,20,1.0,Verb to be,0,Avanzado
+13,20,0.65,Verb to be,0,Básico
+1,20,0.05,Verb to be,0,Básico
+10,20,0.5,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+20,20,1.0,Future Perfect,3,Avanzado
+3,20,0.15,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+20,20,1.0,Present Simple,1,Avanzado
+10,20,0.5,Present Simple,1,Básico
+7,20,0.35,Verb to be,0,Básico
+10,20,0.5,Verb to be,0,Básico
+3,20,0.15,The verb can,2,Básico
+16,20,0.8,Present Simple,1,Intermedio
+6,20,0.3,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+2,20,0.1,Verb to be,0,Básico
+1,20,0.05,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+4,20,0.2,Verb to be,0,Básico
+0,20,0.0,Verb to be,0,Básico
+3,20,0.15,The verb can,2,Básico
+14,20,0.7,Future Perfect,3,Intermedio
+19,20,0.95,The verb can,2,Avanzado
+18,20,0.9,The verb can,2,Avanzado
+2,20,0.1,Verb to be,0,Básico
+19,20,0.95,Future Perfect,3,Avanzado
+10,20,0.5,Verb to be,0,Básico
+16,20,0.8,Future Perfect,3,Intermedio
+12,20,0.6,Future Perfect,3,Básico
+10,20,0.5,The verb can,2,Básico
+1,20,0.05,Future Perfect,3,Básico
+8,20,0.4,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+20,20,1.0,Present Simple,1,Avanzado
+8,20,0.4,Present Simple,1,Básico
+8,20,0.4,Verb to be,0,Básico
+7,20,0.35,Present Simple,1,Básico
+16,20,0.8,Future Perfect,3,Intermedio
+0,20,0.0,Verb to be,0,Básico
+10,20,0.5,The verb can,2,Básico
+7,20,0.35,Future Perfect,3,Básico
+9,20,0.45,Future Perfect,3,Básico
+6,20,0.3,Future Perfect,3,Básico
+2,20,0.1,Present Simple,1,Básico
+2,20,0.1,Future Perfect,3,Básico
+17,20,0.85,The verb can,2,Intermedio
+4,20,0.2,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+11,20,0.55,The verb can,2,Básico
+18,20,0.9,Verb to be,0,Avanzado
+5,20,0.25,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+4,20,0.2,The verb can,2,Básico
+11,20,0.55,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+16,20,0.8,Verb to be,0,Intermedio
+9,20,0.45,Present Simple,1,Básico
+16,20,0.8,Future Perfect,3,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+11,20,0.55,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+7,20,0.35,The verb can,2,Básico
+20,20,1.0,The verb can,2,Avanzado
+16,20,0.8,Verb to be,0,Intermedio
+4,20,0.2,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+5,20,0.25,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+17,20,0.85,Verb to be,0,Intermedio
+11,20,0.55,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+8,20,0.4,Future Perfect,3,Básico
+12,20,0.6,Future Perfect,3,Básico
+14,20,0.7,Verb to be,0,Intermedio
+9,20,0.45,The verb can,2,Básico
+15,20,0.75,Present Simple,1,Intermedio
+6,20,0.3,Present Simple,1,Básico
+16,20,0.8,The verb can,2,Intermedio
+20,20,1.0,Future Perfect,3,Avanzado
+6,20,0.3,Future Perfect,3,Básico
+13,20,0.65,Present Simple,1,Básico
+14,20,0.7,Present Simple,1,Intermedio
+20,20,1.0,The verb can,2,Avanzado
+6,20,0.3,Verb to be,0,Básico
+8,20,0.4,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+15,20,0.75,Present Simple,1,Intermedio
+7,20,0.35,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+17,20,0.85,Future Perfect,3,Intermedio
+19,20,0.95,Verb to be,0,Avanzado
+6,20,0.3,Present Simple,1,Básico
+2,20,0.1,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+9,20,0.45,Verb to be,0,Básico
+6,20,0.3,Verb to be,0,Básico
+16,20,0.8,The verb can,2,Intermedio
+13,20,0.65,Verb to be,0,Básico
+2,20,0.1,Future Perfect,3,Básico
+11,20,0.55,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+10,20,0.5,Verb to be,0,Básico
+7,20,0.35,Present Simple,1,Básico
+11,20,0.55,The verb can,2,Básico
+6,20,0.3,Future Perfect,3,Básico
+14,20,0.7,The verb can,2,Intermedio
+16,20,0.8,Present Simple,1,Intermedio
+3,20,0.15,The verb can,2,Básico
+12,20,0.6,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+0,20,0.0,Verb to be,0,Básico
+15,20,0.75,Present Simple,1,Intermedio
+12,20,0.6,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+11,20,0.55,The verb can,2,Básico
+1,20,0.05,Verb to be,0,Básico
+2,20,0.1,Verb to be,0,Básico
+9,20,0.45,Verb to be,0,Básico
+1,20,0.05,Future Perfect,3,Básico
+12,20,0.6,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+17,20,0.85,The verb can,2,Intermedio
+2,20,0.1,The verb can,2,Básico
+6,20,0.3,Present Simple,1,Básico
+13,20,0.65,Present Simple,1,Básico
+19,20,0.95,The verb can,2,Avanzado
+16,20,0.8,Present Simple,1,Intermedio
+20,20,1.0,Verb to be,0,Avanzado
+11,20,0.55,The verb can,2,Básico
+15,20,0.75,Present Simple,1,Intermedio
+11,20,0.55,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+9,20,0.45,Verb to be,0,Básico
+6,20,0.3,Verb to be,0,Básico
+19,20,0.95,The verb can,2,Avanzado
+4,20,0.2,Verb to be,0,Básico
+0,20,0.0,Present Simple,1,Básico
+16,20,0.8,Present Simple,1,Intermedio
+2,20,0.1,Verb to be,0,Básico
+12,20,0.6,Future Perfect,3,Básico
+13,20,0.65,Verb to be,0,Básico
+17,20,0.85,Present Simple,1,Intermedio
+3,20,0.15,Present Simple,1,Básico
+17,20,0.85,Verb to be,0,Intermedio
+4,20,0.2,Verb to be,0,Básico
+15,20,0.75,The verb can,2,Intermedio
+0,20,0.0,Future Perfect,3,Básico
+20,20,1.0,Verb to be,0,Avanzado
+13,20,0.65,Present Simple,1,Básico
+14,20,0.7,The verb can,2,Intermedio
+8,20,0.4,The verb can,2,Básico
+14,20,0.7,Present Simple,1,Intermedio
+16,20,0.8,Present Simple,1,Intermedio
+3,20,0.15,Present Simple,1,Básico
+11,20,0.55,The verb can,2,Básico
+4,20,0.2,The verb can,2,Básico
+4,20,0.2,Verb to be,0,Básico
+10,20,0.5,Present Simple,1,Básico
+5,20,0.25,Future Perfect,3,Básico
+6,20,0.3,The verb can,2,Básico
+13,20,0.65,Future Perfect,3,Básico
+10,20,0.5,The verb can,2,Básico
+12,20,0.6,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+19,20,0.95,Verb to be,0,Avanzado
+3,20,0.15,Present Simple,1,Básico
+7,20,0.35,The verb can,2,Básico
+19,20,0.95,Verb to be,0,Avanzado
+20,20,1.0,The verb can,2,Avanzado
+18,20,0.9,Present Simple,1,Avanzado
+12,20,0.6,Future Perfect,3,Básico
+13,20,0.65,Verb to be,0,Básico
+9,20,0.45,Verb to be,0,Básico
+10,20,0.5,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+8,20,0.4,The verb can,2,Básico
+16,20,0.8,The verb can,2,Intermedio
+2,20,0.1,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+14,20,0.7,Future Perfect,3,Intermedio
+16,20,0.8,The verb can,2,Intermedio
+8,20,0.4,Present Simple,1,Básico
+2,20,0.1,The verb can,2,Básico
+19,20,0.95,Present Simple,1,Avanzado
+16,20,0.8,Future Perfect,3,Intermedio
+9,20,0.45,Present Simple,1,Básico
+2,20,0.1,The verb can,2,Básico
+17,20,0.85,The verb can,2,Intermedio
+17,20,0.85,Verb to be,0,Intermedio
+16,20,0.8,The verb can,2,Intermedio
+2,20,0.1,Verb to be,0,Básico
+2,20,0.1,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+12,20,0.6,Future Perfect,3,Básico
+14,20,0.7,The verb can,2,Intermedio
+8,20,0.4,The verb can,2,Básico
+3,20,0.15,The verb can,2,Básico
+13,20,0.65,Present Simple,1,Básico
+4,20,0.2,Future Perfect,3,Básico
+1,20,0.05,Present Simple,1,Básico
+10,20,0.5,Present Simple,1,Básico
+8,20,0.4,Verb to be,0,Básico
+2,20,0.1,The verb can,2,Básico
+8,20,0.4,The verb can,2,Básico
+2,20,0.1,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+11,20,0.55,The verb can,2,Básico
+9,20,0.45,Verb to be,0,Básico
+8,20,0.4,The verb can,2,Básico
+14,20,0.7,Future Perfect,3,Intermedio
+7,20,0.35,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+10,20,0.5,The verb can,2,Básico
+1,20,0.05,The verb can,2,Básico
+14,20,0.7,Present Simple,1,Intermedio
+5,20,0.25,Future Perfect,3,Básico
+7,20,0.35,Verb to be,0,Básico
+4,20,0.2,Present Simple,1,Básico
+15,20,0.75,The verb can,2,Intermedio
+17,20,0.85,The verb can,2,Intermedio
+5,20,0.25,Verb to be,0,Básico
+4,20,0.2,The verb can,2,Básico
+15,20,0.75,Present Simple,1,Intermedio
+12,20,0.6,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+12,20,0.6,The verb can,2,Básico
+16,20,0.8,Verb to be,0,Intermedio
+17,20,0.85,Present Simple,1,Intermedio
+7,20,0.35,Verb to be,0,Básico
+12,20,0.6,The verb can,2,Básico
+18,20,0.9,Present Simple,1,Avanzado
+2,20,0.1,The verb can,2,Básico
+7,20,0.35,Verb to be,0,Básico
+1,20,0.05,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+12,20,0.6,The verb can,2,Básico
+12,20,0.6,Future Perfect,3,Básico
+0,20,0.0,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+15,20,0.75,Present Simple,1,Intermedio
+7,20,0.35,Verb to be,0,Básico
+0,20,0.0,Present Simple,1,Básico
+15,20,0.75,Present Simple,1,Intermedio
+8,20,0.4,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+10,20,0.5,The verb can,2,Básico
+12,20,0.6,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+9,20,0.45,The verb can,2,Básico
+3,20,0.15,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+10,20,0.5,Verb to be,0,Básico
+12,20,0.6,Present Simple,1,Básico
+18,20,0.9,Future Perfect,3,Avanzado
+9,20,0.45,Present Simple,1,Básico
+9,20,0.45,Present Simple,1,Básico
+10,20,0.5,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+6,20,0.3,Present Simple,1,Básico
+17,20,0.85,The verb can,2,Intermedio
+3,20,0.15,Verb to be,0,Básico
+1,20,0.05,Verb to be,0,Básico
+13,20,0.65,Verb to be,0,Básico
+12,20,0.6,Present Simple,1,Básico
+11,20,0.55,Future Perfect,3,Básico
+6,20,0.3,Verb to be,0,Básico
+1,20,0.05,Present Simple,1,Básico
+12,20,0.6,Verb to be,0,Básico
+13,20,0.65,Future Perfect,3,Básico
+16,20,0.8,Verb to be,0,Intermedio
+8,20,0.4,Present Simple,1,Básico
+16,20,0.8,The verb can,2,Intermedio
+7,20,0.35,The verb can,2,Básico
+1,20,0.05,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+2,20,0.1,Present Simple,1,Básico
+15,20,0.75,Verb to be,0,Intermedio
+5,20,0.25,Verb to be,0,Básico
+18,20,0.9,Present Simple,1,Avanzado
+6,20,0.3,Verb to be,0,Básico
+9,20,0.45,Verb to be,0,Básico
+8,20,0.4,Present Simple,1,Básico
+1,20,0.05,Future Perfect,3,Básico
+14,20,0.7,Present Simple,1,Intermedio
+4,20,0.2,Verb to be,0,Básico
+3,20,0.15,Verb to be,0,Básico
+19,20,0.95,Future Perfect,3,Avanzado
+3,20,0.15,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+3,20,0.15,Present Simple,1,Básico
+16,20,0.8,Present Simple,1,Intermedio
+11,20,0.55,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+9,20,0.45,Verb to be,0,Básico
+0,20,0.0,Future Perfect,3,Básico
+17,20,0.85,Verb to be,0,Intermedio
+17,20,0.85,Present Simple,1,Intermedio
+13,20,0.65,The verb can,2,Básico
+14,20,0.7,Present Simple,1,Intermedio
+11,20,0.55,Present Simple,1,Básico
+3,20,0.15,Verb to be,0,Básico
+2,20,0.1,Present Simple,1,Básico
+19,20,0.95,The verb can,2,Avanzado
+11,20,0.55,Future Perfect,3,Básico
+6,20,0.3,Verb to be,0,Básico
+10,20,0.5,Verb to be,0,Básico
+0,20,0.0,Future Perfect,3,Básico
+5,20,0.25,The verb can,2,Básico
+14,20,0.7,The verb can,2,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+10,20,0.5,The verb can,2,Básico
+1,20,0.05,Present Simple,1,Básico
+13,20,0.65,Present Simple,1,Básico
+1,20,0.05,Verb to be,0,Básico
+3,20,0.15,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+2,20,0.1,Present Simple,1,Básico
+12,20,0.6,Future Perfect,3,Básico
+8,20,0.4,Present Simple,1,Básico
+6,20,0.3,The verb can,2,Básico
+14,20,0.7,Verb to be,0,Intermedio
+10,20,0.5,Present Simple,1,Básico
+19,20,0.95,Future Perfect,3,Avanzado
+1,20,0.05,Verb to be,0,Básico
+14,20,0.7,Verb to be,0,Intermedio
+13,20,0.65,Present Simple,1,Básico
+19,20,0.95,Verb to be,0,Avanzado
+10,20,0.5,The verb can,2,Básico
+2,20,0.1,Future Perfect,3,Básico
+16,20,0.8,Present Simple,1,Intermedio
+11,20,0.55,Verb to be,0,Básico
+20,20,1.0,Present Simple,1,Avanzado
+14,20,0.7,The verb can,2,Intermedio
+15,20,0.75,Verb to be,0,Intermedio
+4,20,0.2,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+5,20,0.25,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+4,20,0.2,The verb can,2,Básico
+2,20,0.1,Verb to be,0,Básico
+0,20,0.0,Verb to be,0,Básico
+5,20,0.25,The verb can,2,Básico
+14,20,0.7,The verb can,2,Intermedio
+1,20,0.05,Verb to be,0,Básico
+2,20,0.1,Verb to be,0,Básico
+16,20,0.8,Verb to be,0,Intermedio
+11,20,0.55,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+11,20,0.55,Present Simple,1,Básico
+15,20,0.75,The verb can,2,Intermedio
+7,20,0.35,Present Simple,1,Básico
+13,20,0.65,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+20,20,1.0,Future Perfect,3,Avanzado
+7,20,0.35,The verb can,2,Básico
+14,20,0.7,The verb can,2,Intermedio
+13,20,0.65,The verb can,2,Básico
+17,20,0.85,Future Perfect,3,Intermedio
+19,20,0.95,Present Simple,1,Avanzado
+6,20,0.3,Verb to be,0,Básico
+2,20,0.1,Present Simple,1,Básico
+11,20,0.55,The verb can,2,Básico
+20,20,1.0,The verb can,2,Avanzado
+2,20,0.1,Present Simple,1,Básico
+19,20,0.95,Verb to be,0,Avanzado
+13,20,0.65,Present Simple,1,Básico
+14,20,0.7,Future Perfect,3,Intermedio
+13,20,0.65,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+11,20,0.55,Present Simple,1,Básico
+19,20,0.95,The verb can,2,Avanzado
+3,20,0.15,Present Simple,1,Básico
+8,20,0.4,The verb can,2,Básico
+5,20,0.25,Present Simple,1,Básico
+15,20,0.75,Present Simple,1,Intermedio
+20,20,1.0,Verb to be,0,Avanzado
+20,20,1.0,The verb can,2,Avanzado
+1,20,0.05,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+10,20,0.5,Present Simple,1,Básico
+12,20,0.6,Future Perfect,3,Básico
+16,20,0.8,Verb to be,0,Intermedio
+7,20,0.35,The verb can,2,Básico
+20,20,1.0,Verb to be,0,Avanzado
+17,20,0.85,Present Simple,1,Intermedio
+17,20,0.85,Verb to be,0,Intermedio
+13,20,0.65,Present Simple,1,Básico
+14,20,0.7,Present Simple,1,Intermedio
+5,20,0.25,Verb to be,0,Básico
+10,20,0.5,Present Simple,1,Básico
+12,20,0.6,Future Perfect,3,Básico
+0,20,0.0,Verb to be,0,Básico
+5,20,0.25,The verb can,2,Básico
+8,20,0.4,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+10,20,0.5,Verb to be,0,Básico
+18,20,0.9,Verb to be,0,Avanzado
+8,20,0.4,Verb to be,0,Básico
+16,20,0.8,Verb to be,0,Intermedio
+11,20,0.55,Verb to be,0,Básico
+13,20,0.65,Present Simple,1,Básico
+14,20,0.7,The verb can,2,Intermedio
+15,20,0.75,The verb can,2,Intermedio
+19,20,0.95,Present Simple,1,Avanzado
+0,20,0.0,Verb to be,0,Básico
+9,20,0.45,Verb to be,0,Básico
+7,20,0.35,Present Simple,1,Básico
+17,20,0.85,Verb to be,0,Intermedio
+0,20,0.0,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+8,20,0.4,The verb can,2,Básico
+12,20,0.6,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+12,20,0.6,Future Perfect,3,Básico
+19,20,0.95,Future Perfect,3,Avanzado
+6,20,0.3,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+6,20,0.3,Future Perfect,3,Básico
+13,20,0.65,The verb can,2,Básico
+17,20,0.85,Verb to be,0,Intermedio
+14,20,0.7,Present Simple,1,Intermedio
+1,20,0.05,Present Simple,1,Básico
+9,20,0.45,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+16,20,0.8,The verb can,2,Intermedio
+7,20,0.35,Present Simple,1,Básico
+10,20,0.5,The verb can,2,Básico
+2,20,0.1,The verb can,2,Básico
+5,20,0.25,The verb can,2,Básico
+8,20,0.4,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+8,20,0.4,Verb to be,0,Básico
+6,20,0.3,Present Simple,1,Básico
+8,20,0.4,Verb to be,0,Básico
+17,20,0.85,Present Simple,1,Intermedio
+11,20,0.55,Verb to be,0,Básico
+7,20,0.35,Verb to be,0,Básico
+7,20,0.35,Verb to be,0,Básico
+17,20,0.85,Verb to be,0,Intermedio
+19,20,0.95,The verb can,2,Avanzado
+14,20,0.7,The verb can,2,Intermedio
+6,20,0.3,Present Simple,1,Básico
+10,20,0.5,Verb to be,0,Básico
+19,20,0.95,Verb to be,0,Avanzado
+15,20,0.75,Verb to be,0,Intermedio
+3,20,0.15,Verb to be,0,Básico
+5,20,0.25,The verb can,2,Básico
+2,20,0.1,Verb to be,0,Básico
+8,20,0.4,Present Simple,1,Básico
+9,20,0.45,Verb to be,0,Básico
+13,20,0.65,Verb to be,0,Básico
+10,20,0.5,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+11,20,0.55,Verb to be,0,Básico
+11,20,0.55,Verb to be,0,Básico
+12,20,0.6,Present Simple,1,Básico
+12,20,0.6,Verb to be,0,Básico
+18,20,0.9,Verb to be,0,Avanzado
+18,20,0.9,Future Perfect,3,Avanzado
+13,20,0.65,Present Simple,1,Básico
+3,20,0.15,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+20,20,1.0,Present Simple,1,Avanzado
+18,20,0.9,Present Simple,1,Avanzado
+11,20,0.55,The verb can,2,Básico
+17,20,0.85,Verb to be,0,Intermedio
+5,20,0.25,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+18,20,0.9,The verb can,2,Avanzado
+4,20,0.2,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+2,20,0.1,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+2,20,0.1,Present Simple,1,Básico
+14,20,0.7,Verb to be,0,Intermedio
+0,20,0.0,Present Simple,1,Básico
+6,20,0.3,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+16,20,0.8,The verb can,2,Intermedio
+20,20,1.0,Verb to be,0,Avanzado
+19,20,0.95,Present Simple,1,Avanzado
+4,20,0.2,Present Simple,1,Básico
+3,20,0.15,Verb to be,0,Básico
+11,20,0.55,The verb can,2,Básico
+19,20,0.95,Verb to be,0,Avanzado
+17,20,0.85,Present Simple,1,Intermedio
+16,20,0.8,Present Simple,1,Intermedio
+18,20,0.9,Present Simple,1,Avanzado
+8,20,0.4,Present Simple,1,Básico
+3,20,0.15,Verb to be,0,Básico
+20,20,1.0,Verb to be,0,Avanzado
+1,20,0.05,The verb can,2,Básico
+3,20,0.15,Present Simple,1,Básico
+1,20,0.05,The verb can,2,Básico
+14,20,0.7,The verb can,2,Intermedio
+1,20,0.05,The verb can,2,Básico
+3,20,0.15,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+6,20,0.3,The verb can,2,Básico
+9,20,0.45,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+18,20,0.9,The verb can,2,Avanzado
+11,20,0.55,The verb can,2,Básico
+2,20,0.1,Present Simple,1,Básico
+12,20,0.6,Verb to be,0,Básico
+17,20,0.85,Present Simple,1,Intermedio
+7,20,0.35,The verb can,2,Básico
+20,20,1.0,Future Perfect,3,Avanzado
+14,20,0.7,Verb to be,0,Intermedio
+0,20,0.0,Verb to be,0,Básico
+2,20,0.1,The verb can,2,Básico
+7,20,0.35,Present Simple,1,Básico
+3,20,0.15,Present Simple,1,Básico
+15,20,0.75,Future Perfect,3,Intermedio
+9,20,0.45,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+13,20,0.65,Verb to be,0,Básico
+13,20,0.65,Present Simple,1,Básico
+1,20,0.05,The verb can,2,Básico
+4,20,0.2,Present Simple,1,Básico
+4,20,0.2,Future Perfect,3,Básico
+5,20,0.25,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
+8,20,0.4,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+13,20,0.65,Present Simple,1,Básico
+6,20,0.3,Verb to be,0,Básico
+19,20,0.95,Present Simple,1,Avanzado
+1,20,0.05,Present Simple,1,Básico
+6,20,0.3,The verb can,2,Básico
+5,20,0.25,Present Simple,1,Básico
+16,20,0.8,The verb can,2,Intermedio
+1,20,0.05,Verb to be,0,Básico
+2,20,0.1,Verb to be,0,Básico
+4,20,0.2,Present Simple,1,Básico
+4,20,0.2,Present Simple,1,Básico
+0,20,0.0,Verb to be,0,Básico
+7,20,0.35,The verb can,2,Básico
+11,20,0.55,The verb can,2,Básico
+3,20,0.15,Present Simple,1,Básico
+12,20,0.6,Verb to be,0,Básico
+14,20,0.7,The verb can,2,Intermedio
+10,20,0.5,Present Simple,1,Básico
+9,20,0.45,The verb can,2,Básico
+2,20,0.1,The verb can,2,Básico
+13,20,0.65,The verb can,2,Básico
+15,20,0.75,Present Simple,1,Intermedio
+9,20,0.45,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+11,20,0.55,Present Simple,1,Básico
+8,20,0.4,The verb can,2,Básico
+0,20,0.0,Verb to be,0,Básico
+4,20,0.2,Verb to be,0,Básico
+19,20,0.95,The verb can,2,Avanzado
+7,20,0.35,The verb can,2,Básico
+10,20,0.5,Future Perfect,3,Básico
+11,20,0.55,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+19,20,0.95,Present Simple,1,Avanzado
+10,20,0.5,The verb can,2,Básico
+4,20,0.2,Present Simple,1,Básico
+14,20,0.7,Present Simple,1,Intermedio
+4,20,0.2,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+16,20,0.8,Verb to be,0,Intermedio
+16,20,0.8,Verb to be,0,Intermedio
+11,20,0.55,Present Simple,1,Básico
+14,20,0.7,Verb to be,0,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+5,20,0.25,Present Simple,1,Básico
+11,20,0.55,Future Perfect,3,Básico
+19,20,0.95,Present Simple,1,Avanzado
+17,20,0.85,Verb to be,0,Intermedio
+13,20,0.65,Verb to be,0,Básico
+1,20,0.05,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+4,20,0.2,The verb can,2,Básico
+19,20,0.95,Present Simple,1,Avanzado
+0,20,0.0,The verb can,2,Básico
+2,20,0.1,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+4,20,0.2,Verb to be,0,Básico
+20,20,1.0,Future Perfect,3,Avanzado
+4,20,0.2,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+18,20,0.9,Verb to be,0,Avanzado
+13,20,0.65,Present Simple,1,Básico
+11,20,0.55,Verb to be,0,Básico
+9,20,0.45,Present Simple,1,Básico
+19,20,0.95,Verb to be,0,Avanzado
+20,20,1.0,Present Simple,1,Avanzado
+17,20,0.85,The verb can,2,Intermedio
+10,20,0.5,The verb can,2,Básico
+1,20,0.05,The verb can,2,Básico
+17,20,0.85,Verb to be,0,Intermedio
+6,20,0.3,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+10,20,0.5,Present Simple,1,Básico
+17,20,0.85,Present Simple,1,Intermedio
+11,20,0.55,Verb to be,0,Básico
+5,20,0.25,Verb to be,0,Básico
+19,20,0.95,Verb to be,0,Avanzado
+12,20,0.6,The verb can,2,Básico
+19,20,0.95,Verb to be,0,Avanzado
+15,20,0.75,Present Simple,1,Intermedio
+17,20,0.85,Verb to be,0,Intermedio
+9,20,0.45,Present Simple,1,Básico
+7,20,0.35,Present Simple,1,Básico
+17,20,0.85,The verb can,2,Intermedio
+20,20,1.0,The verb can,2,Avanzado
+0,20,0.0,Present Simple,1,Básico
+7,20,0.35,Future Perfect,3,Básico
+5,20,0.25,Future Perfect,3,Básico
+4,20,0.2,The verb can,2,Básico
+14,20,0.7,The verb can,2,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+1,20,0.05,Present Simple,1,Básico
+0,20,0.0,Verb to be,0,Básico
+10,20,0.5,Verb to be,0,Básico
+9,20,0.45,Future Perfect,3,Básico
+17,20,0.85,Present Simple,1,Intermedio
+17,20,0.85,The verb can,2,Intermedio
+16,20,0.8,The verb can,2,Intermedio
+7,20,0.35,The verb can,2,Básico
+14,20,0.7,Future Perfect,3,Intermedio
+7,20,0.35,Verb to be,0,Básico
+16,20,0.8,Verb to be,0,Intermedio
+11,20,0.55,Present Simple,1,Básico
+7,20,0.35,Verb to be,0,Básico
+13,20,0.65,Verb to be,0,Básico
+3,20,0.15,Present Simple,1,Básico
+0,20,0.0,The verb can,2,Básico
+0,20,0.0,Present Simple,1,Básico
+18,20,0.9,Present Simple,1,Avanzado
+15,20,0.75,Present Simple,1,Intermedio
+13,20,0.65,Verb to be,0,Básico
+20,20,1.0,Verb to be,0,Avanzado
+15,20,0.75,The verb can,2,Intermedio
+4,20,0.2,Present Simple,1,Básico
+8,20,0.4,The verb can,2,Básico
+1,20,0.05,Verb to be,0,Básico
+17,20,0.85,The verb can,2,Intermedio
+5,20,0.25,Present Simple,1,Básico
+8,20,0.4,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+8,20,0.4,The verb can,2,Básico
+15,20,0.75,Present Simple,1,Intermedio
+12,20,0.6,Present Simple,1,Básico
+8,20,0.4,Future Perfect,3,Básico
+20,20,1.0,The verb can,2,Avanzado
+12,20,0.6,Present Simple,1,Básico
+8,20,0.4,The verb can,2,Básico
+10,20,0.5,Present Simple,1,Básico
+3,20,0.15,Verb to be,0,Básico
+1,20,0.05,Present Simple,1,Básico
+5,20,0.25,Future Perfect,3,Básico
+13,20,0.65,Future Perfect,3,Básico
+3,20,0.15,Present Simple,1,Básico
+5,20,0.25,Present Simple,1,Básico
+18,20,0.9,Verb to be,0,Avanzado
+5,20,0.25,Future Perfect,3,Básico
+1,20,0.05,Future Perfect,3,Básico
+17,20,0.85,Present Simple,1,Intermedio
+12,20,0.6,The verb can,2,Básico
+8,20,0.4,The verb can,2,Básico
+18,20,0.9,Present Simple,1,Avanzado
+12,20,0.6,Verb to be,0,Básico
+10,20,0.5,Present Simple,1,Básico
+0,20,0.0,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+20,20,1.0,Present Simple,1,Avanzado
+14,20,0.7,Future Perfect,3,Intermedio
+0,20,0.0,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+14,20,0.7,Present Simple,1,Intermedio
+20,20,1.0,Present Simple,1,Avanzado
+18,20,0.9,Verb to be,0,Avanzado
+0,20,0.0,Verb to be,0,Básico
+16,20,0.8,Present Simple,1,Intermedio
+16,20,0.8,Present Simple,1,Intermedio
+2,20,0.1,Verb to be,0,Básico
+11,20,0.55,The verb can,2,Básico
+5,20,0.25,Present Simple,1,Básico
+10,20,0.5,Present Simple,1,Básico
+2,20,0.1,The verb can,2,Básico
+7,20,0.35,Verb to be,0,Básico
+13,20,0.65,Verb to be,0,Básico
+13,20,0.65,The verb can,2,Básico
+9,20,0.45,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+13,20,0.65,The verb can,2,Básico
+8,20,0.4,The verb can,2,Básico
+2,20,0.1,Future Perfect,3,Básico
+20,20,1.0,Present Simple,1,Avanzado
+7,20,0.35,Present Simple,1,Básico
+15,20,0.75,Present Simple,1,Intermedio
+1,20,0.05,Verb to be,0,Básico
+5,20,0.25,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+11,20,0.55,Future Perfect,3,Básico
+4,20,0.2,Present Simple,1,Básico
+1,20,0.05,Present Simple,1,Básico
+15,20,0.75,Present Simple,1,Intermedio
+4,20,0.2,Verb to be,0,Básico
+14,20,0.7,Verb to be,0,Intermedio
+11,20,0.55,Present Simple,1,Básico
+3,20,0.15,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+10,20,0.5,The verb can,2,Básico
+15,20,0.75,The verb can,2,Intermedio
+5,20,0.25,Present Simple,1,Básico
+13,20,0.65,Verb to be,0,Básico
+17,20,0.85,The verb can,2,Intermedio
+11,20,0.55,The verb can,2,Básico
+10,20,0.5,Verb to be,0,Básico
+12,20,0.6,The verb can,2,Básico
+20,20,1.0,Verb to be,0,Avanzado
+10,20,0.5,The verb can,2,Básico
+15,20,0.75,Future Perfect,3,Intermedio
+14,20,0.7,Verb to be,0,Intermedio
+20,20,1.0,The verb can,2,Avanzado
+14,20,0.7,Present Simple,1,Intermedio
+3,20,0.15,Future Perfect,3,Básico
+10,20,0.5,Present Simple,1,Básico
+18,20,0.9,The verb can,2,Avanzado
+14,20,0.7,Verb to be,0,Intermedio
+3,20,0.15,Present Simple,1,Básico
+20,20,1.0,Verb to be,0,Avanzado
+12,20,0.6,Future Perfect,3,Básico
+18,20,0.9,The verb can,2,Avanzado
+1,20,0.05,The verb can,2,Básico
+13,20,0.65,Future Perfect,3,Básico
+3,20,0.15,Verb to be,0,Básico
+15,20,0.75,Present Simple,1,Intermedio
+20,20,1.0,Verb to be,0,Avanzado
+19,20,0.95,Verb to be,0,Avanzado
+13,20,0.65,Verb to be,0,Básico
+14,20,0.7,Present Simple,1,Intermedio
+2,20,0.1,Verb to be,0,Básico
+7,20,0.35,Verb to be,0,Básico
+15,20,0.75,Verb to be,0,Intermedio
+9,20,0.45,Verb to be,0,Básico
+3,20,0.15,Future Perfect,3,Básico
+17,20,0.85,The verb can,2,Intermedio
+1,20,0.05,Future Perfect,3,Básico
+16,20,0.8,Present Simple,1,Intermedio
+12,20,0.6,Verb to be,0,Básico
+3,20,0.15,The verb can,2,Básico
+10,20,0.5,Present Simple,1,Básico
+6,20,0.3,Verb to be,0,Básico
+11,20,0.55,Verb to be,0,Básico
+9,20,0.45,Verb to be,0,Básico
+6,20,0.3,Verb to be,0,Básico
+12,20,0.6,Present Simple,1,Básico
+6,20,0.3,Present Simple,1,Básico
+16,20,0.8,Verb to be,0,Intermedio
+9,20,0.45,Verb to be,0,Básico
+9,20,0.45,The verb can,2,Básico
+3,20,0.15,Verb to be,0,Básico
+19,20,0.95,Present Simple,1,Avanzado
+3,20,0.15,The verb can,2,Básico
+6,20,0.3,Verb to be,0,Básico
+0,20,0.0,Verb to be,0,Básico
+11,20,0.55,Present Simple,1,Básico
+12,20,0.6,Present Simple,1,Básico
