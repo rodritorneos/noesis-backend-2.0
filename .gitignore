@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos de sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos grandes o temporales
+*.log
+*.wav
+*.mp3
+*.csv
+dataset_noesis.csv
+
+# Configuración local
+.DS_Store
+.idea/
+.vscode/
